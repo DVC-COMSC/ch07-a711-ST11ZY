@@ -25,6 +25,7 @@ ax.bar_label(rect4, padding=3)
 # ******************************
 # Make your code
 # ******************************
+#test
 
 
 fig.savefig('A11.png')
